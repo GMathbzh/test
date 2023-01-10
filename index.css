@@ -8,4 +8,6 @@ nav {
 
 ul {
   font-weight: 100;
+li {
+  font-size: 10px;
 }
