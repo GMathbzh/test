@@ -6,6 +6,7 @@
     <title>basic react-redux</title>
 </head>
 <body>
+    <h1>salut<h1>
     <div class="container" id="app"></div>
 </body>
 </html>
